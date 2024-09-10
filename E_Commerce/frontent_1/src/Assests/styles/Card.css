@@ -1,0 +1,8 @@
+.card{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border:2px solid salmon;
+    margin-block-start: 30px;
+}
+.cards{
+    margin-inline-start: 50px;
+}
